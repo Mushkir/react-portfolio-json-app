@@ -6,7 +6,7 @@ Need to create a Portfolio App using React.js. Here all the datas need comes fro
 
 ### Live link
 
-> Will be updated...
+https://mushkir-json-portfolio-react-app.netlify.app/
 
 ## Technologies and Libraries Used and Learned
 
