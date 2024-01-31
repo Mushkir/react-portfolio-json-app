@@ -10,7 +10,8 @@ const TheNavBar = () => {
         </Link>
 
         <Link
-          to=""
+          to="https://github.com/Mushkir/react-portfolio-json-app"
+          target="_blanks"
           className="bg-secondary max-w-28 text-primary font-semibold rounded-md hover:bg-hoverSecondary hover:transition 500"
         >
           <div className="flex justify-center items-center gap-1 px-5 py-1">

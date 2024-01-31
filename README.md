@@ -6,7 +6,7 @@ Need to create a Portfolio App using React.js. Here all the datas need comes fro
 
 ### Live link
 
-https://mushkir.github.io/syllabus-org-app/
+> Will be updated...
 
 ## Technologies and Libraries Used and Learned
 
@@ -22,12 +22,31 @@ https://ibb.co/7Nq781W
 [!Screenshot02]
 https://ibb.co/rxqLrsF
 
-## How to install
+## Installation
 
-1.
+- Clone the Repo into Local machine
+
+```bash
+  git clone https://github.com/Mushkir/react-portfolio-json-app.git
 
 ```
 
+- Open the terminal and enter following command
+
+```bash
+npm install
+```
+
+- If you are a Mac user try the following command
+
+```bash
+sudo npm install
+```
+
+- Enter the following command to Run
+
+```bash
+npm run dev
 ```
 
 ## Internship
