@@ -1,0 +1,31 @@
+{
+    "id": 1,
+    "name": "Mushkir",
+    "firstName": "Mohamed",
+    "lastName": "Mushkir",
+    "age": 27,
+    "dob": "09th Of November 1996",
+    "contactNo": "+94 777195282",
+    "address": "No. 246/A, Meera Nagar Road, Nintavur",
+    "city": "Kalmunai",
+    "country": "Sri Lanka",
+    "maritalStatus" : false,
+    "idCardNo": "199631123525",
+    "gender": "M",
+    "education": [
+        "Following BEng.(Hons) in Software Engineering (Final Year)",
+        "Completed Higher National Diploma in Information Technology"
+    ],
+    "email": "mushkirmohamed@gmail.com",
+    "workPlace": "CyberDude Networks (Pvt) Ltd.",
+    "position": "Intern Full-Stack Engineer",
+    "hobbies": [
+        "Learning new things",
+        "Photography"
+    ],
+    "facebook": "https://web.facebook.com/profile.php?id=100059556802890",
+    "instagram": "https://www.instagram.com/mushkir_9611",
+    "linkedIn": "https://www.linkedin.com/in/mohamed-mushkir/",
+    "github": "https://github.com/Mushkir"
+
+}
